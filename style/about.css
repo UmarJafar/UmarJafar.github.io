@@ -204,7 +204,7 @@ section .flex-50-gt-sm {
 .hex-image {
   width: 330px;
   height: 400px;
-  background: transparent url("../img/umar381.JPG") no-repeat;
+  background: transparent url("../img/umar381.jpg") no-repeat;
   background-size: cover;
   /*position: relative;*/
   margin: 12px auto;
